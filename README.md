@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋 I'm Ashen Jayarathne
 
-🚀 AI/ML | Data Science | Streamlit | SQL | Python Developer
+🚀 AI/ML | Data Science | SQL | Python Developer
 
 ## 🌱 Currently Learning
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 🤖 Build simple and effective AI/ML projects
 - 📊 Work with data preprocessing, model training, and deployment
-- 📈 Create interactive dashboards using Streamlit
+- 📈 Create interactive dashboards using Streamlit/PowerBI
 
 ## 💬 Ask Me About
 
